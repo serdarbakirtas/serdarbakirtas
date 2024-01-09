@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hello fellow coders! I'm [Your Name], a seasoned Senior iOS Developer with a passion for crafting top-notch mobile experiences.
+👋 Hello fellow coders! I'm Serdar, a seasoned Senior iOS Developer with a passion for crafting top-notch mobile experiences.
 
 🚀 With a wealth of experience in iOS development, I specialize in architecting and implementing robust applications that leverage the latest Apple technologies. From elegant user interfaces to scalable backend integrations, I thrive on delivering high-quality solutions.
 
