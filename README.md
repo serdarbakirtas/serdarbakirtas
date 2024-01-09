@@ -28,7 +28,7 @@ Feel free to reach out and connect on any platform! 🚀
   - [![Xcode](https://img.shields.io/badge/Xcode-13.0-blue)](https://developer.apple.com/xcode/)
   - [![UIKit](https://img.shields.io/badge/UIKit-lightgrey)](https://developer.apple.com/documentation/uikit/)
   - [![SwiftUI](https://img.shields.io/badge/SwiftUI-lightgrey)](https://developer.apple.com/documentation/swiftui/)
-  - [![Combine](https://img.shields.io/badge/SwiftUI-lightgrey)](https://developer.apple.com/documentation/combine/)
+  - [![Combine](https://img.shields.io/badge/Combine-lightgrey)](https://developer.apple.com/documentation/combine/)
   - [![Core Data](https://img.shields.io/badge/Core_Data-purple)](https://developer.apple.com/documentation/coredata/)
 
 - **Networking:**
