@@ -24,23 +24,36 @@ Feel free to reach out and connect on any platform! 🚀
 ## Tech Stack
 
 - **iOS Development:**
-  - [![Swift](https://img.shields.io/badge/Swift-5.5-orange)](https://swift.org/)
-  - [![Xcode](https://img.shields.io/badge/Xcode-13.0-blue)](https://developer.apple.com/xcode/)
-  - [![UIKit](https://img.shields.io/badge/UIKit-yellow)](https://developer.apple.com/documentation/uikit/)
-  - [![SwiftUI](https://img.shields.io/badge/SwiftUI-yellow)](https://developer.apple.com/documentation/swiftui/)
-  - [![Combine](https://img.shields.io/badge/Combine-yellow)](https://developer.apple.com/documentation/combine/)
-  - [![Core Data](https://img.shields.io/badge/Core_Data-purple)](https://developer.apple.com/documentation/coredata/)
+
+  [![Swift](https://img.shields.io/badge/Swift-5.5-orange)](https://swift.org/)
+  [![Xcode](https://img.shields.io/badge/Xcode-13.0-blue)](https://developer.apple.com/xcode/)
+  [![UIKit](https://img.shields.io/badge/UIKit-yellow)](https://developer.apple.com/documentation/uikit/)
+  [![SwiftUI](https://img.shields.io/badge/SwiftUI-yellow)](https://developer.apple.com/documentation/swiftui/)
+  [![Combine](https://img.shields.io/badge/Combine-yellow)](https://developer.apple.com/documentation/combine/)
+  [![Core Data](https://img.shields.io/badge/Core_Data-purple)](https://developer.apple.com/documentation/coredata/)
 
 - **Networking:**
-  - [![Alamofire](https://img.shields.io/badge/Alamofire-5.5.2-green)](https://github.com/Alamofire/Alamofire)
+
+  [![Alamofire](https://img.shields.io/badge/Alamofire-5.5.2-green)](https://github.com/Alamofire/Alamofire)
 
 - **Testing:**
-  - [![XCTest](https://img.shields.io/badge/XCTest-Unit%20Testing-red)](https://developer.apple.com/documentation/xctest/)
-  - [![Quick](https://img.shields.io/badge/Quick-3.1.2-orange)](https://github.com/Quick/Quick)
-  - [![Nimble](https://img.shields.io/badge/Nimble-9.0.0-blue)](https://github.com/Quick/Nimble)
+
+  [![XCTest](https://img.shields.io/badge/XCTest-Unit%20Testing-red)](https://developer.apple.com/documentation/xctest/)
+  [![Quick](https://img.shields.io/badge/Quick-3.1.2-orange)](https://github.com/Quick/Quick)
+  [![Nimble](https://img.shields.io/badge/Nimble-9.0.0-blue)](https://github.com/Quick/Nimble)
 
 - **Dependency Management:**
-  - [![CocoaPods](https://img.shields.io/badge/CocoaPods-1.11.2-red)](https://cocoapods.org/)
-  - [![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-5.5.2-brightgreen)](https://swift.org/package-manager/)
+
+  [![CocoaPods](https://img.shields.io/badge/CocoaPods-1.11.2-red)](https://cocoapods.org/)
+  [![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-5.5.2-brightgreen)](https://swift.org/package-manager/)
 
 Feel free to reach out if you have any questions about the technologies used in this iOS project!
+
+## GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=serdarbakirtas&show_icons=true&theme=radical)](https://github.com/serdarbakirtas/github-readme-stats)
+
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serdarbakirtas&layout=compact&theme=radical)](https://github.com/serdarbakirtas/github-readme-stats)
+
