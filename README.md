@@ -31,6 +31,8 @@ Feel free to reach out and connect on any platform! 🚀
   [![SwiftUI](https://img.shields.io/badge/SwiftUI-yellow)](https://developer.apple.com/documentation/swiftui/)
   [![Combine](https://img.shields.io/badge/Combine-yellow)](https://developer.apple.com/documentation/combine/)
   [![Core Data](https://img.shields.io/badge/Core_Data-purple)](https://developer.apple.com/documentation/coredata/)
+  [![Swift Data](https://img.shields.io/badge/Swift_Data-purple)](https://developer.apple.com/documentation/swiftdata/)
+  [![ML Kit](https://img.shields.io/badge/ML_Kit-green)](https://developers.google.com/ml-kit)
 
 - **Networking:**
 
