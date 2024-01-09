@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**serdarbakirtas/serdarbakirtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👋 Hello fellow coders! I'm [Your Name], a seasoned Senior iOS Developer with a passion for crafting top-notch mobile experiences.
 
 🚀 With a wealth of experience in iOS development, I specialize in architecting and implementing robust applications that leverage the latest Apple technologies. From elegant user interfaces to scalable backend integrations, I thrive on delivering high-quality solutions.
@@ -18,5 +13,3 @@ Here are some ideas to get you started:
 🔗 Let's connect! Whether it's collaborating on challenging projects or discussing the latest in iOS development, I'm always up for engaging conversations and new opportunities.
 
 Happy coding! 🚀
-
--->
